@@ -128,6 +128,11 @@ let score1 = 0;
 let score2 = 0;
 
 function init() {
+    // les controles de jeu:
+    // w pour le joueur 1 (up)
+    // s pour le joueur 1 (down)
+    // ArrowUp pour le joueur 2 (up)
+    // ArrowDown pour le joueur 2 (down)
     let screen = document.body.getBoundingClientRect();
     // largeur de la raquette 
     let largeurRaquette = 100; 
