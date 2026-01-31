@@ -17,7 +17,7 @@ body {
 
 #raquette1, #raquette2 {
     position: fixed;
-    width: 150px;
+    width: 100px;
     height: 250px;
 }
 
