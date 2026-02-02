@@ -10,22 +10,20 @@ body {
 
 #ball {
     position: fixed;
-    width: 64px;
-    height: 64px;
+    width: 86px;
+    height: 86px;
 }
 
 
 #raquette1, #raquette2 {
     position: fixed;
-    width: 100px;
-    height: 250px;
+    width: 120px;
+    height: 300px;
 }
 
 #scores {
     position: fixed;
     top: 20px;
     left: 50%;
-    transform: translateX(-50%);
     font-size: 48px;
-
 }
